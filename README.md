@@ -18,22 +18,19 @@ Research and tooling for GTA Vice City radio audio files and formats.
 ### PassMan
 A lightweight password manager written in Python.
 
-### Game Collection
-A collection of small games created for learning, experimentation, and fun.
-
 ## Interests
 
 - Reverse Engineering
 - Game Preservation
 - Game Modding
-- Lua Development
-- Python Development
+- C# Development
 - Classic GTA Series
 
 ## Currently Working On
 
 - GTA Modding Research
-- Love2D Game Development
+- Learning C3
+- Godot Game Development
 
 ---
 
