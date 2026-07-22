@@ -2,7 +2,7 @@
 
 I enjoy reverse engineering, game modding, and creating tools for classic games.
 
-Most of my work focuses on understanding how games work internally, preserving technical knowledge, and building utilities that improve the player experience.
+Most of my work focuses on understanding how games work internally, preserving technical knowledge, and building utilities that help me to learn games under hood.
 
 ## Featured Projects
 
@@ -29,7 +29,7 @@ A lightweight password manager written in Python.
 ## Currently Working On
 
 - GTA Modding Research
-- Learning C3
+- Learning C#
 - Godot Game Development
 
 ---
