@@ -37,4 +37,22 @@ The Probably Excessive Save Format, an overengineered binary save format for gam
 
 ---
 
+## PGP Public Key
+
+If you want to send me an encrypted email, you can use my PGP public key:
+
+* **Public Key:** [Here](https://gist.github.com/ArashNOIRE/c66b8a5b85d0aad558bed6dfa975f5bc)
+* **Fingerprint:**
+
+  ```
+  BE5D BC89 56BC DFE8 771A CD0E 8284 4FCE B175 68E8
+  ```
+
+You can use this key to:
+
+* Encrypt messages sent to me
+* Verify my digital signatures
+
+---
+
 "Understanding software is just as important as writing it."
